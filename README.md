@@ -1,10 +1,10 @@
 <img src="https://github.com/glinchflash/glinchflash/blob/main/GithubHeader.jpg">
 
 
-- 🔭 I’m currently working on a Full stack webdeveloper course!
-- 🌱 I’m currently trying to improve my general knowledge on all the subjects we already seen in the course!
-- 👯 I’m looking to collaborate or an internship!
-- 🎁 Some of the things I learned at Becode
+- 🔭 I’m currently working as a full stack developer at Aeco!
+- 🌱 I’m currently trying to improve my knowledge on anything web developer related!
+- 👯 I’m looking to collaborate or any opportunities!
+- 🎁 Some of the things I learned at Becode where I did a bootcamp
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
