@@ -1,7 +1,7 @@
 <img src="https://github.com/glinchflash/glinchflash/blob/main/GithubHeader.jpg">
 
 
-- 🔭 I’m currently working as a full stack developer at Aeco!
+- 🔭 I’m currently working as a full stack developer at Triptomatic!
 - 🌱 I’m currently trying to improve my knowledge on anything web developer related!
 - 👯 I’m looking to collaborate or any opportunities!
 - 🎁 Some of the things I learned at Becode where I did a bootcamp
